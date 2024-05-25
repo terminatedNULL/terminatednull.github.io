@@ -1,1 +1,3 @@
-downloadTest.txt
+mod downloadTest.txt
+new newTest.txt
+del delTest.txt
